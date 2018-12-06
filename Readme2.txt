@@ -4,3 +4,5 @@ Git is free software.
 再来一句
 Some more updates!
 Test branch
+
+To test merge
