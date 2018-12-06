@@ -5,7 +5,5 @@ Git is free software.
 Some more updates!
 Test branch
 
-<<<<<<< HEAD
 
 Need to merge the conflicts?
->>>>>>> feature1
